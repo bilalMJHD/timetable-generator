@@ -1,0 +1,21 @@
+Package jakub-onderka/php-console-color is abandoned, you should avoid using it. Use php-parallel-lint/php-console-color instead.
+Package jakub-onderka/php-console-highlighter is abandoned, you should avoid using it. Use php-parallel-lint/php-console-highlighter instead.
+Package mtdowling/cron-expression is abandoned, you should avoid using it. Use dragonmantank/cron-expression instead.
+Package swiftmailer/swiftmailer is abandoned, you should avoid using it. Use symfony/mailer instead.
+Package symfony/debug is abandoned, you should avoid using it. Use symfony/error-handler instead.
+Package fzaninotto/faker is abandoned, you should avoid using it. No replacement was suggested.
+Package phpunit/php-token-stream is abandoned, you should avoid using it. No replacement was suggested.
+Package phpunit/phpunit-mock-objects is abandoned, you should avoid using it. No replacement was suggested.
+Generating optimized autoload files
+Class App\Services\GeneticAlgorithm\CollegeClass located in C:/laragon/www/timetable-generator/app\Services\Genetic Algorithm\CollegeClass.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Services\GeneticAlgorithm\GeneticAlgorithm located in C:/laragon/www/timetable-generator/app\Services\Genetic Algorithm\GeneticAlgorithm.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Services\GeneticAlgorithm\Group located in C:/laragon/www/timetable-generator/app\Services\Genetic Algorithm\Group.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Services\GeneticAlgorithm\Individual located in C:/laragon/www/timetable-generator/app\Services\Genetic Algorithm\Individual.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Services\GeneticAlgorithm\Module located in C:/laragon/www/timetable-generator/app\Services\Genetic Algorithm\Module.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Services\GeneticAlgorithm\Population located in C:/laragon/www/timetable-generator/app\Services\Genetic Algorithm\Population.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Services\GeneticAlgorithm\Professor located in C:/laragon/www/timetable-generator/app\Services\Genetic Algorithm\Professor.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Services\GeneticAlgorithm\Room located in C:/laragon/www/timetable-generator/app\Services\Genetic Algorithm\Room.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Services\GeneticAlgorithm\Timeslot located in C:/laragon/www/timetable-generator/app\Services\Genetic Algorithm\Timeslot.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Services\GeneticAlgorithm\Timetable located in C:/laragon/www/timetable-generator/app\Services\Genetic Algorithm\Timetable.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Services\GeneticAlgorithm\TimetableGA located in C:/laragon/www/timetable-generator/app\Services\Genetic Algorithm\TimetableGA.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Services\GeneticAlgorithm\TimetableRenderer located in C:/laragon/www/timetable-generator/app\Services\Genetic Algorithm\TimetableRenderer.php does not comply with psr-4 autoloading standard. Skipping.
