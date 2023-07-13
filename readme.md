@@ -62,3 +62,6 @@ php artisan db:seed
 ```
 
 Navigate to the application URL, if asked for a password: the default password is `admin`
+
+Got Errors while installing
+[Errors List](errors.txt)
